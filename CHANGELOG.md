@@ -1,5 +1,10 @@
 # CHANGELOG
 
+## [Unreleased]
+
+- 新增应用档案 `qtcloud-media-studio/`：媒体云工作台理想的交互体验（列表–详情三栏、草稿清单通栏、设置沉底、预留分区）
+- 通用设计语言 `quanttide/` 新增「列表–详情工作台（Master–Detail）」骨架：栏序、等高、设置沉底、列表承载管理、预留分区
+
 ## 0.1.0 — 2026-08-21
 
 - 初始化交互设计档案仓库（README、AGENTS、目录蓝图：language/ + products/）
